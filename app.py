@@ -16,7 +16,7 @@ app.layout = html.Div(children=[
         figure={
             'data': [
                 {'x': ['Dash', 'Powerpoint', 'Lascaux cave paintings'], 'y': [8, 2, 3], 'type': 'bar', 'name': 'Intelligence'},
-                {'x': ['Dash', 'Powerpoint', 'Lascaux cave paintings'], 'y': [7, 1, 5], 'type': 'bar', 'name': 'Beauty'},
+                {'x': ['Dash', 'Powerpoint', 'Lascaux cave paintings'], 'y': [6, 1, 5], 'type': 'bar', 'name': 'Beauty'},
             ],
             'layout': {
                 'title': "Because friends don't let friends use Microsoft Powerpoint",
